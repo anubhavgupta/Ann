@@ -1,0 +1,28 @@
+{
+  "name": "ann",
+  "version": "1.0.0",
+  "homepage": "https://github.com/anubhavgupta/Ann",
+  "description": "Javascript Annotation Library",
+  "main": "build/ann-min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Annotation",
+    "JS Annotation",
+    "Annotation",
+    "js-annotation",
+    "aan",
+    "annotation",
+    "javascript",
+    "annotation"
+  ],
+  "authors": [
+    "Anubhav Gupta (anubhav200@gmail.com)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}
