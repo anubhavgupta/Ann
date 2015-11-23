@@ -1,6 +1,6 @@
 {
   "name": "ann",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/anubhavgupta/Ann",
   "description": "Javascript Annotation Library",
   "main": "build/ann-min.js",
