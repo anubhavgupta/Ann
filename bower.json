@@ -4,9 +4,6 @@
   "homepage": "https://github.com/anubhavgupta/Ann",
   "description": "Javascript Annotation Library",
   "main": "build/ann-min.js",
-  "moduleType": [
-    "globals"
-  ],
   "keywords": [
     "Annotation",
     "JS Annotation",
@@ -22,7 +19,10 @@
   ],
   "license": "MIT",
   "ignore": [
+    "**/.*",
     "node_modules",
-    "bower_components"
+    "bower_components",
+    "test",
+    "tests"
   ]
 }

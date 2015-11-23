@@ -30,9 +30,7 @@
   },
   "homepage": "https://github.com/anubhavgupta/Ann#readme",
   "devDependencies": {
-    "del": "^2.1.0",
     "gulp": "^3.9.0",
-    "gulp-minify": "0.0.5",
-    "vinyl-paths": "^2.1.0"
+    "gulp-minify": "0.0.5"
   }
 }
