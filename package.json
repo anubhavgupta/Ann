@@ -1,0 +1,34 @@
+{
+  "name": "ann",
+  "version": "1.0.0",
+  "description": "Javascript Annotation Library",
+  "main": "src/ann.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhavgupta/Ann.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Js",
+    "Annotations",
+    "Annotation"
+  ],
+  "author": "Anubhav Gupta (anubhav200@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anubhavgupta/Ann/issues"
+  },
+  "homepage": "https://github.com/anubhavgupta/Ann#readme",
+  "devDependencies": {
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-minify": "0.0.5",
+    "vinyl-paths": "^2.1.0"
+  }
+}
